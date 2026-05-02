@@ -1,15 +1,3 @@
-.github/workflows
-
-
-pacman.yml
-
-
-README.md
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
@@ -84,10 +72,8 @@ Fork on Github
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vagolf/vagolf/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vagolf/vagolf/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vagolf/vagolf/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vagolf/vagolf/output/pacman-contribution-graph-dark.svg">
+</div>
 
 ###
